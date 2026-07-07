@@ -23,6 +23,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -30,6 +31,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -44,14 +46,21 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
