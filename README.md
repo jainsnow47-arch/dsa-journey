@@ -47,6 +47,7 @@ Happy Coding! 🚀
 | ------- |
 | [0189-rotate-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jainsnow47-arch/dsa-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
