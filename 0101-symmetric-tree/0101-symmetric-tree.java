@@ -20,7 +20,6 @@ class Solution {
         return p.val==q.val && isSame(p.left,q.right) && isSame(p.right,q.left);
     }
     public boolean isSymmetric(TreeNode root) {
-        if(root==null) return true;
         return isSame(root.left,root.right);
     }
 }
