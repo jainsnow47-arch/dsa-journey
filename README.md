@@ -27,6 +27,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
