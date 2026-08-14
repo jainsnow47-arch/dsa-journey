@@ -27,6 +27,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2643-row-with-maximum-ones](https://github.com/jainsnow47-arch/dsa-journey/tree/master/2643-row-with-maximum-ones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -107,4 +108,8 @@ Happy Coding! 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/jainsnow47-arch/dsa-journey/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
