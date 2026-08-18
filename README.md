@@ -22,6 +22,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
