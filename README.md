@@ -86,6 +86,7 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -95,6 +96,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -112,6 +114,7 @@ Happy Coding! 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -122,4 +125,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/jainsnow47-arch/dsa-journey/tree/master/2643-row-with-maximum-ones) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
