@@ -21,6 +21,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0189-rotate-array) |
@@ -43,6 +44,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0283-move-zeroes) |
@@ -143,4 +145,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0207-course-schedule) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
