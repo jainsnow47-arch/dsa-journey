@@ -22,6 +22,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0189-rotate-array) |
@@ -149,4 +150,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
