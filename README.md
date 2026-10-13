@@ -30,6 +30,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0518-coin-change-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0875-koko-eating-bananas) |
 | [2643-row-with-maximum-ones](https://github.com/jainsnow47-arch/dsa-journey/tree/master/2643-row-with-maximum-ones) |
@@ -158,4 +159,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0518-coin-change-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
