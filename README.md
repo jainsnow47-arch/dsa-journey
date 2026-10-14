@@ -108,6 +108,7 @@ Happy Coding! 🚀
 | [0112-path-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Happy Coding! 🚀
 | [0112-path-sum](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
@@ -171,4 +174,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0518-coin-change-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
