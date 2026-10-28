@@ -56,6 +56,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jainsnow47-arch/dsa-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -87,6 +88,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/jainsnow47-arch/dsa-journey/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |
